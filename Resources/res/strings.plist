@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>data</key>
+    <dict>
+        <key>hello</key>
+        <string>返回主菜单</string>
+        <key>cocos2d.x.display_fps</key>
+        <true/>
+        <key>cocos2d.x.gl.projection</key>
+        <string>3d</string>
+        <key>cocos2d.x.texture.pixel_format_for_png</key>
+        <string>rgba8888</string>
+        <key>cocos2d.x.texture.pvrv2_has_alpha_premultiplied</key>
+        <false/>
+      
+        <key>hi</key>
+        <string>重新开始</string>
+        <key>cocos2d.x.display_fps</key>
+        <true/>
+        <key>cocos2d.x.gl.projection</key>
+        <string>3d</string>
+        <key>cocos2d.x.texture.pixel_format_for_png</key>
+        <string>rgba8888</string>
+        <key>cocos2d.x.texture.pvrv2_has_alpha_premultiplied</key>
+        <false/>
+
+      <key>end</key>
+      <string>结束游戏</string>
+      <key>cocos2d.x.display_fps</key>
+      <true/>
+      <key>cocos2d.x.gl.projection</key>
+      <string>3d</string>
+      <key>cocos2d.x.texture.pixel_format_for_png</key>
+      <string>rgba8888</string>
+      <key>cocos2d.x.texture.pvrv2_has_alpha_premultiplied</key>
+      <false/>
+
+      <key>start</key>
+      <string>开始游戏</string>
+      <key>cocos2d.x.display_fps</key>
+      <true/>
+      <key>cocos2d.x.gl.projection</key>
+      <string>3d</string>
+      <key>cocos2d.x.texture.pixel_format_for_png</key>
+      <string>rgba8888</string>
+      <key>cocos2d.x.texture.pvrv2_has_alpha_premultiplied</key>
+      <false/>
+
+        <key>font</key>
+        <string>宋体.ttc</string>
+        <key>cocos2d.x.display_fps</key>
+        <true/>
+        <key>cocos2d.x.gl.projection</key>
+        <string>3d</string>
+        <key>cocos2d.x.texture.pixel_format_for_png</key>
+        <string>rgba8888</string>
+        <key>cocos2d.x.texture.pvrv2_has_alpha_premultiplied</key>
+        <false/>
+    </dict>
+    <key>metadata</key>
+    <dict>
+        <key>format</key>
+        <integer>1</integer>
+    </dict>
+</dict>
+</plist>
